@@ -439,4 +439,30 @@ footer {
         width: 90%;
     }
 
-}
+    #mensaje-galeria {
+        font-size: 18px;
+        margin-bottom: 20 px;
+        color: #f3f3f7;
+        font-weight: bold;
+    }
+
+    .menu {
+        position: relative;
+    }
+
+    .submenu {
+        display: none;
+        position: absolute;
+        background-color: #11153d;
+        padding: 10px;
+        list-style: none;
+
+    }
+
+    .menu:hover .submenu {
+        display: block;
+    }
+
+    .submenu li {
+        margin: 10px 0;
+    }
