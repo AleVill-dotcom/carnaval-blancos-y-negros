@@ -1,3 +1,5 @@
+alert("JS funcionando");
+window.addEventListener(...)
 const mensaje = document.getElementById("mensaje-galeria");
 const hora = new Date().getHours();
 if (hora < 12) {
