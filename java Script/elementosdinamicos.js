@@ -17,7 +17,7 @@ const imagenes = [
     "images/img 1 portada.jpg",
     //"images/laguna-cocha-main-image.jpg",
     "images/laguna-de-la-cocha.jpg",
-    "images/img 2 carroza murga.jpg"
+    "images/img 2 carroza murga.jpg",
 
 ];
 let index = 0;
