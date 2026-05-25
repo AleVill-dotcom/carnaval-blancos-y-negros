@@ -18,6 +18,7 @@ const imagenes = [
     //"images/laguna-cocha-main-image.jpg",
     "images/laguna-de-la-cocha.jpg",
     "images/img 2 carroza murga.jpg"
+    "images/1000_F_533942122_KcSPyFkmgfhx5nzskE9GHASZuFpFjy01.jpg"
 
 ];
 let index = 0;
