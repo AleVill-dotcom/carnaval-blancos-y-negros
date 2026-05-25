@@ -13,7 +13,7 @@ const imagenes = [
     "images/imagen 4 disfraz individual.jpg",
     //"images/imagen 5 comparza.jpg",
     //"images/imagen 6 murgade fuelles y cuerdas.jpg",
-    //"images/imagen 7 murga andina siembra del agua.jpg",
+    "images/imagen 7 murga andina siembra del agua.jpg",
     "images/img 1 portada.jpg",
     //"images/laguna-cocha-main-image.jpg",
     "images/laguna-de-la-cocha.jpg",
